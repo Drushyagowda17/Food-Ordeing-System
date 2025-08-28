@@ -228,5 +228,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 📞 Support
 For support and questions, please open an issue in the project repository.
 
-yaml
-Copy code
+Contact-drushyagmgowda@gmail.com
